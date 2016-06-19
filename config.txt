@@ -1,5 +1,5 @@
 Window name: [Age of Empires II: HD Edition]
-Resolution: [1080][1920]
+Resolution: [1920][1080]
 Position: [50][50]
 Offset: [17][72]
 Scaling factor: [2.5]
